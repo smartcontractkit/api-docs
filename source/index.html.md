@@ -1,5 +1,5 @@
 ---
-title: Smart Oracle Documentation
+title: Oracle Kit Developer Guide
 
 toc_footers:
   - <a href='mailto:support@smartcontract.com'>Need Help?</a>
