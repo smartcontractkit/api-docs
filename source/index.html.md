@@ -48,4 +48,4 @@ View [the source code](https://github.com/oraclekit/schemas).
 
 The Solidity Compiler API is a lightweight services wrapping the `solc` Solidity Compiler utility and making it accessible to other web applications via HTTP calls.
 
-View [the API documentation](https://solc-api-docs.smartcontract.com/) and [the source code](https://github.com/oraclekit/solc-api).
+View [the source code](https://github.com/oraclekit/solc-api).
