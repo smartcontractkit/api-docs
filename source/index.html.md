@@ -16,23 +16,23 @@ Welcome to the Smart Contract Oracle Kit documentation. Oracle Kit is a set of t
 
 The different parts are:
 
-- [Smart Oracle](#smart-oracle): Software for connecting data feeds with the blockchain as needed.
-- [Wei Watchers](#wei-watchers): Push notification service for Ethereum based blockchains.
+- [ChainLink](#chainlink): Software for connecting data feeds with the blockchain as needed.
+- [WeiWatchers](#weiwatchers): Push notification service for Ethereum based blockchains.
 - [Schemas Set](#schema-set): Schemas for defining oracle adapter inputs and outputs.
 - [SolC-API](#solc-api): An API for compiling Solidity contracts.
 
-# Smart Oracle
+# ChainLink
 
-The Smart Oracle is the core of the oracle kit, coming with built in support for bridging existing websites and APIs with Ethereum and Bitcoin out of the box.
+ChainLink is the core of the oracle kit, coming with built in support for bridging existing websites and APIs with Ethereum and Bitcoin out of the box.
 
-In addition to the built in Smart Oracle functionality, the oracle can be extended with custom adapters to interact with more specialized serivces and protocols. See the adapters section for more information on integrating more custom applications.
+In addition to the [built in](https://chainlink-docs.smartcontract.com/#core-adapters) ChainLink functionality, the oracle can be extended with custom adapters to interact with more specialized serivces and protocols. See the [external adapters](https://chainlink-docs.smartcontract.com/#external-adapters) section for more information on integrating more custom applications.
 
-View [the API documentation](https://smartoracle.smartcontract.com/) and [the source code](https://github.com/oraclekit/smart_oracle).
+View [the API documentation](https://smartoracle.smartcontract.com/) and [the source code](https://github.com/oraclekit/chainlink).
 
 
-# Wei Watchers
+# WeiWatchers
 
-Wei Watchers provides push notifications to applications based on Ethereum event logs and account balance changes.
+WeiWatchers provides push notifications to applications based on Ethereum event logs and account balance changes.
 
 View [the API documentation](https://weiwatchers-docs.smartcontract.com/) and [the source code](https://github.com/oraclekit/wei_watchers).
 
