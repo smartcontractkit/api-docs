@@ -25,7 +25,7 @@ The different parts are:
 
 ChainLink is the core of the oracle kit, coming with built in support for bridging existing websites and APIs with Ethereum and Bitcoin out of the box.
 
-In addition to the [built in](https://chainlink-docs.smartcontract.com/#core-adapters) ChainLink functionality, the oracle can be extended with custom adapters to interact with more specialized serivces and protocols. See the [external adapters](https://chainlink-docs.smartcontract.com/#external-adapters) section for more information on integrating more custom applications.
+In addition to the [built in](https://chainlink-docs.smartcontract.com/#core-adapters) ChainLink functionality, the oracle can be extended with custom adapters to interact with more specialized services and protocols. See the [external adapters](https://chainlink-docs.smartcontract.com/#external-adapters) section for more information on integrating more custom applications.
 
 View [the API documentation](https://smartoracle.smartcontract.com/) and [the source code](https://github.com/oraclekit/chainlink).
 
